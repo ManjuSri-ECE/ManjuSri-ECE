@@ -22,4 +22,4 @@ Exploring the convergence of Embedded Systems, IoT, and AI/ML to design next-gen
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/manju-sri-400556276/
-* Portfolio: Coming Soon
+* Portfolio: https://manjusri-ece.github.io/portfolio-website/
